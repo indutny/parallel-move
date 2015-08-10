@@ -1,6 +1,6 @@
 # Parallel Move
-[![Build Status](https://secure.travis-ci.org/indutny/paralle-move.png)](http://travis-ci.org/indutny/paralle-move)
-[![NPM version](https://badge.fury.io/js/paralle-move.svg)](http://badge.fury.io/js/paralle-move)
+[![Build Status](https://secure.travis-ci.org/indutny/parallel-move.png)](http://travis-ci.org/indutny/parallel-move)
+[![NPM version](https://badge.fury.io/js/parallel-move.svg)](http://badge.fury.io/js/parallel-move)
 
 [Parallel Move][0] implementation.
 
