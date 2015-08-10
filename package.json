@@ -1,0 +1,35 @@
+{
+  "name": "parallel-move",
+  "version": "1.0.0",
+  "description": "Parallel Move implementation",
+  "main": "lib/move.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jscs lib/*.js test/*.js && jshint lib/*.js && mocha --reporter spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/parallel-move.git"
+  },
+  "keywords": [
+    "Parallel",
+    "Move",
+    "Resolver"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/parallel-move/issues"
+  },
+  "homepage": "https://github.com/indutny/parallel-move#readme",
+  "devDependencies": {
+    "jscs": "^2.0.0",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "binary-search": "^1.2.0"
+  }
+}
